@@ -1,0 +1,29 @@
+{
+  "name": "node-frotz-telegram-bot",
+  "version": "1.0.0",
+  "description": "Node Frotz Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbenini/node-frotz-telegram-bot.git"
+  },
+  "keywords": [
+    "Node",
+    "Frotz",
+    "Telegram",
+    "Bot"
+  ],
+  "author": "Luca Benini <lbenini@gmail.com> (http://nope.tech)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lbenini/node-frotz-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/lbenini/node-frotz-telegram-bot#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-frotz": "^0.1.0"
+  }
+}
